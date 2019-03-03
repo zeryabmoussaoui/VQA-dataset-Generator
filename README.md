@@ -9,5 +9,6 @@ There are 3 notebooks out there:
 Each notebook contains a variables section. Any user of this code must fill the variable with his specific needs to see the notebooks work fine.
 There are some sections that were specific to the generation of indoor scenes like the room template questions,the transformation from an image extention to JPG or the section "Special usecase applyed to NUY Depth V2 dataset" or the keywords files. If you don't need them, just remove them. (see inside notebooks there are commented sections)
 I have used Google Colab when writing this code, so in each notebook, there is a code that mounts drive on colab, you can skip that one if you don't use Colab or drive on Colab.
-Use the Yolo directory contained in this project because I modified him to get additional commands.
+Use the Yolo directory contained in this project because I modified him to get additional commands.  
+  The key_words directory contains file specific to indoor scenes, if you want to apply the algorithm to another domain, replace indoors.txt with domain keywords, Nindoor.txt is for keywords you don't want in your dataset. All rooms is specific to indoor scenes.
 
