@@ -1,0 +1,18 @@
+kitchen
+bathroom
+basement
+bedroom
+living room
+bookstore
+cafe
+classroom
+dining room
+furniture store
+home office
+library
+misc
+office
+office kitchen
+playroom
+reception room
+study room

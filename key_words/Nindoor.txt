@@ -1,0 +1,13 @@
+building
+sidewalk
+street
+beach
+elephant
+car
+bus
+motorcycle
+park
+walkway
+ocean
+sun
+city
