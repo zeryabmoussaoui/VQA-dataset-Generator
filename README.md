@@ -1,4 +1,4 @@
-#VQA Dataset Generator
+# VQA Dataset Generator
 
 This repository aims to generate a VQA dataset in a specific domain.
 There are 3 notebooks out there:
